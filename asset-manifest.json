@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hexa-lite/static/css/main.1a8429cc.css",
-    "main.js": "/hexa-lite/static/js/main.c83e96a9.js",
+    "main.css": "/hexa-lite/static/css/main.cfd94f61.css",
+    "main.js": "/hexa-lite/static/js/main.f23034e7.js",
     "static/js/443.adfcc728.chunk.js": "/hexa-lite/static/js/443.adfcc728.chunk.js",
     "static/js/738.6147accc.chunk.js": "/hexa-lite/static/js/738.6147accc.chunk.js",
     "static/js/223.12ebab3f.chunk.js": "/hexa-lite/static/js/223.12ebab3f.chunk.js",
@@ -86,8 +86,8 @@
     "static/media/tokenary.svg": "/hexa-lite/static/media/tokenary.b82c209ab731e9e8c4ca0794eb0e1698.svg",
     "static/media/placeholder.svg": "/hexa-lite/static/media/placeholder.cb2c2485328953a2e710f71cece147f6.svg",
     "static/media/blockwallet.svg": "/hexa-lite/static/media/blockwallet.2e7de2898ffd19583f637d444fd97bb0.svg",
-    "main.1a8429cc.css.map": "/hexa-lite/static/css/main.1a8429cc.css.map",
-    "main.c83e96a9.js.map": "/hexa-lite/static/js/main.c83e96a9.js.map",
+    "main.cfd94f61.css.map": "/hexa-lite/static/css/main.cfd94f61.css.map",
+    "main.f23034e7.js.map": "/hexa-lite/static/js/main.f23034e7.js.map",
     "443.adfcc728.chunk.js.map": "/hexa-lite/static/js/443.adfcc728.chunk.js.map",
     "738.6147accc.chunk.js.map": "/hexa-lite/static/js/738.6147accc.chunk.js.map",
     "223.12ebab3f.chunk.js.map": "/hexa-lite/static/js/223.12ebab3f.chunk.js.map",
@@ -103,7 +103,7 @@
     "883.b149eb5b.chunk.js.map": "/hexa-lite/static/js/883.b149eb5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a8429cc.css",
-    "static/js/main.c83e96a9.js"
+    "static/css/main.cfd94f61.css",
+    "static/js/main.f23034e7.js"
   ]
 }
