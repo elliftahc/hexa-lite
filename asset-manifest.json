@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hexa-lite/static/css/main.8674a4c4.css",
-    "main.js": "/hexa-lite/static/js/main.70b46bf2.js",
+    "main.js": "/hexa-lite/static/js/main.63adcea9.js",
     "static/js/443.adfcc728.chunk.js": "/hexa-lite/static/js/443.adfcc728.chunk.js",
     "static/js/738.6147accc.chunk.js": "/hexa-lite/static/js/738.6147accc.chunk.js",
     "static/js/22.96020f46.chunk.js": "/hexa-lite/static/js/22.96020f46.chunk.js",
@@ -84,7 +84,7 @@
     "static/media/placeholder.svg": "/hexa-lite/static/media/placeholder.cb2c2485328953a2e710f71cece147f6.svg",
     "static/media/blockwallet.svg": "/hexa-lite/static/media/blockwallet.2e7de2898ffd19583f637d444fd97bb0.svg",
     "main.8674a4c4.css.map": "/hexa-lite/static/css/main.8674a4c4.css.map",
-    "main.70b46bf2.js.map": "/hexa-lite/static/js/main.70b46bf2.js.map",
+    "main.63adcea9.js.map": "/hexa-lite/static/js/main.63adcea9.js.map",
     "443.adfcc728.chunk.js.map": "/hexa-lite/static/js/443.adfcc728.chunk.js.map",
     "738.6147accc.chunk.js.map": "/hexa-lite/static/js/738.6147accc.chunk.js.map",
     "22.96020f46.chunk.js.map": "/hexa-lite/static/js/22.96020f46.chunk.js.map",
@@ -98,6 +98,6 @@
   },
   "entrypoints": [
     "static/css/main.8674a4c4.css",
-    "static/js/main.70b46bf2.js"
+    "static/js/main.63adcea9.js"
   ]
 }
